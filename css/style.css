@@ -1,0 +1,10 @@
+/* Conteudo */
+@import "/css/conteudo/conteudo.css";
+@import "/css/footer/footer.css";
+@import "/css/header/header.css";
+
+/* Ultilidades */
+@import "/css/utilidades/cores.css";
+@import "/css/utilidades/global.css";
+@import "/css/utilidades/tipografia.css";
+@import "/css/utilidades/componentes.css";

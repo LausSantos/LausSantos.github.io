@@ -1,0 +1,31 @@
+:root {
+  --font-grande: 700 4rem/1.125 "poppins";
+  --font-media: 400 1.125rem/1.33 "poppins";
+  --font-pequena: 400 1.25rem/1.25 "roboto";
+  --font-botao: 600 1.25rem/1.33 "poppins";
+  --font-footer-titulo: 400 1.5rem/1.5 "Roboto";
+  --font-footer: 400 1.125rem/1.35 "Poppins";
+  --font-input: 400 2rem/1.6 "poppins";
+}
+
+.font-grande {
+  font: 700 4rem/1.125 "poppins";
+}
+.font-media {
+  font: 400 1.125rem/1.33 "poppins";
+}
+.font-pequena {
+  font: 400 1.25rem/1.25 "roboto";
+}
+.font-botao {
+  font: 600 1.25rem/1.33 "poppins";
+}
+.font-footer-titulo {
+  font: 400 1.5rem/1.5 "Roboto";
+}
+.font-footer {
+  font: 400 1.125rem/1.35 "Poppins";
+}
+.font-input {
+  font: 400 1rem/1.5 "poppins";
+}

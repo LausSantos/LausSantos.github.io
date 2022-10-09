@@ -1,0 +1,27 @@
+:root {
+  --cor-w: #ffffff;
+  --cor-p1: #ffbb00;
+  --cor-p2: #332200;
+  --cor-01: #979797;
+  --cor-02: #000000;
+  --cor-03: #5e5e5e;
+}
+
+.cor-w {
+  color: #ffffff;
+}
+.cor-p1 {
+  color: #ffbb00;
+}
+.cor-p2 {
+  color: #332200;
+}
+.cor-01 {
+  color: #979797;
+}
+.cor-02 {
+  color: #000000;
+}
+.cor-03 {
+  color: #5e5e5e;
+}
