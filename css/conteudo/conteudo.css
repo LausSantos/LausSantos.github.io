@@ -96,10 +96,11 @@ body {
     padding: 16px;
   }
   #name {
-    padding: 16px;
+    padding: 16px 12px;
   }
   .main-container h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
   }
   .main-container h1::after {
     top: -20px;
